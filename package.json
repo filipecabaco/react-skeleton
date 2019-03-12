@@ -5,8 +5,8 @@
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
-    "test": "jest --passWithNoTests",
-    "test:watch": "yarn test --watch",
+    "test": "jest",
+    "test:watch": "jest --watch",
     "build": "webpack --mode production"
   },
   "jest": {
