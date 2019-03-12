@@ -1,11 +1,13 @@
 {
   "compilerOptions": {
-    "outDir": "./dist/",
     "sourceMap": true,
+    "skipLibCheck": true,
     "noImplicitAny": true,
+    "esModuleInterop": true,
     "module": "es6",
     "target": "es5",
-    "jsx": "react",
-    "allowJs": true
-  }
+    "jsx": "react"
+  },
+  "include": ["./src/**/*"],
+  "exclude": ["node_modules"]
 }
