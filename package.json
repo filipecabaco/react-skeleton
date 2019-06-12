@@ -23,26 +23,26 @@
     ]
   },
   "dependencies": {
-    "react": "16.8.0",
-    "react-dom": "16.8.0",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
     "styled-components": "^4.1.3"
   },
   "devDependencies": {
-    "@types/react": "16.8.7",
-    "@types/react-dom": "16.8.2",
-    "@types/styled-components": "^4.1.12",
     "@types/enzyme": "^3.9.0",
     "@types/jest": "^24.0.11",
+    "@types/react": "^16.8.7",
+    "@types/react-dom": "^16.8.2",
+    "@types/styled-components": "^4.1.12",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.10.0",
-    "html-webpack-plugin": "3.2.0",
+    "html-webpack-plugin": "^3.2.0",
     "jest": "^24.4.0",
-    "prettier": "1.16.4",
+    "prettier": "^1.16.4",
     "ts-jest": "^24.0.0",
-    "ts-loader": "5.3.3",
-    "typescript": "3.3.3333",
-    "webpack": "4.29.1",
-    "webpack-cli": "3.2.1",
-    "webpack-dev-server": "3.1.14"
+    "ts-loader": "^6.0.2",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.1",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
   }
 }
