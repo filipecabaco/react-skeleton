@@ -4,7 +4,7 @@ Simple React skeleton app to be used in projects.
 
 ## What does it have?
 
-- ⚛️React using Typescript
+- ⚛️React based
 - 📦Webpack bundle up everything
 - 💅React components using Styled Components
 - ✅Testing with Jest & Enzyme
